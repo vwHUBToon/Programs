@@ -3,7 +3,8 @@ package com.dev;
 public class Class4 {
      private String tag1;
      private String tag2;
-     
+     private String tag3;
+	
 	public String getTag1() {
 		return tag1;
 	}
