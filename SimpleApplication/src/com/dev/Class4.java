@@ -17,6 +17,10 @@ public class Class4 {
 	public void setTag2(String tag2) {
 		this.tag2 = tag2;
 	}
+	@Override
+	public String toString() {
+		return "Class4 [tag1=" + tag1 + ", tag2=" + tag2 + ", tag3=" + tag3 + "]";
+	}
      
      
      
